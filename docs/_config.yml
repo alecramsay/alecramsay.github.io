@@ -6,7 +6,7 @@ author:
   email: a73cram5ay@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Alec Ramsay's personal web site 
-baseurl: /
+# baseurl: /
 url: https://alecramsay.github.io/
 twitter_username: alecramsay
 github_username:  alecramsay
