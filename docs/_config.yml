@@ -11,6 +11,8 @@ url: https://alecramsay.github.io/
 twitter_username: alecramsay
 github_username:  alecramsay
 
+nquotes: 3
+
 # Build settings
 theme: minima
 # remote_theme: THEME-NAME
