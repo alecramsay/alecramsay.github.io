@@ -2,14 +2,5 @@
 layout: default
 ---
 
-Welcome to my web site.
+Redistricting Outsider. Redistricting Analytics Nerd. Dave's Redistricting. Flâneur. 
 
-<!-- BEGIN
-
-{% for item in site.data.quotes %}
-    {{item}}
-{% endfor %}
-
-{{ 'now' | date: "%s" | modulo: 366}}
-
-END -->
