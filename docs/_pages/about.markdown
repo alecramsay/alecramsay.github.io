@@ -14,3 +14,5 @@ This is thumbnail sketch of my career:
 * I worked at Microsoft (1995-2011) where I led large cross-functional engineering teams on multiple releases of Visual Studio and Windows, led a virtual team that diagnosed the organizational &amp; cultural problems with Vista-era Windows, and co-founded the project that became Windows Azure.
 * Since leaving Microsoft, I've been working in the civic tech space ("tech for good"), mostly on redistricting ([Dave's Redistricting](https://davesredistricting.org/)).
 
+You can find more details on [LinkedIn](https://www.linkedin.com/in/alec-ramsay).
+
