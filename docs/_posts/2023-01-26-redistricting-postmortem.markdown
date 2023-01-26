@@ -4,7 +4,7 @@ title:  "Redistricting & House Elections 2012-20"
 date:   2023-01-26 08:00:00 -0800
 categories: news
 ---
-Check out my postmortem of 2012-2020 redistricting & congressional elections (post)[https://alecramsay.github.io/ushouse/].
+Check out my postmortem of 2012-2020 redistricting & congressional elections ([post](https://alecramsay.github.io/ushouse/)).
 
 Two unexpected discoveries:
 
