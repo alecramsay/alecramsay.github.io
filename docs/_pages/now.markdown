@@ -15,6 +15,6 @@ This is what I'm working on:
 	imagine having a plot of the Pareto frontier for every pair of five DRA ratings dimensions.
 *	I'm scoping out another research project with Todd to learn who US voters think should win
 	single-winner RCV elections with 3, 4, and 5 candidates and various mixes of ballot preferences -- 
-	our hunch is that no single electoral formula always does what people do.
+	our hunch is that no single electoral formula always does what people want.
 
 I welcome other potential research & coding opportunities.
