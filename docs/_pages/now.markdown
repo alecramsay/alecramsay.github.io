@@ -3,7 +3,7 @@ layout: page
 title: Now
 permalink: now/
 ---
-This is what I'm working on now:
+This is what I'm working on:
 
 *	I continue to be involved in [Dave's Redistricting](https://davesredistricting.org) as needed --
 	I built the analytics package.
