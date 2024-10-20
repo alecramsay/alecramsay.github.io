@@ -2,5 +2,5 @@
 layout: default
 ---
 
-Redistricting Outsider. Redistricting Analytics Nerd. Dave's Redistricting. Flâneur. 
+Redistricting Analytics Nerd. Dave's Redistricting. Open Redistricting. Flâneur. 
 
