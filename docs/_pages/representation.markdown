@@ -11,7 +11,9 @@ I also work in the broader adjacent issue of representation:
     to the US House of Representatives,
     by modeling various apportionment schemes in code.
 *   Along with [Todd Proebsting](http://proebsting.cs.arizona.edu/), I write & publish
-    [Election Mechanics](https://electionmechanics.substack.com/).
+    [Election Mechanics](https://electionmechanics.substack.com/) in which, among other things,
+    we are trying to flesh out the salient issues in choosing a method for selecting the winner 
+    in Ranked Choice Voting (RCV) elections
 *   I've been asked to help with the research for the 
     [Guinier Project](https://charleshamiltonhouston.org/events/a-convening-race-reform-and-multiracial-democracy/).
 
