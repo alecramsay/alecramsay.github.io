@@ -6,7 +6,7 @@ permalink: about/
 
 <img src="{{ site.baseurl }}/assets/images/Alec_Ramsay.jpg" alt="Alec Ramsay" title="Alec Ramsay" width="400" />
 
-This is thumbnail sketch of my career:
+This is a thumbnail sketch of my career:
 
 * I studied economics and computer science at Williams College (1981).
 * I got an MBA from Harvard Business School (1986).
